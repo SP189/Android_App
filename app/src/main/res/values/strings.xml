@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartLearning</string>
+
+    <string-array name="Main">
+        <item>View Timetable</item>
+        <item>Schedule Lecture</item>
+        <item>Cancel Lecture</item>
+        <item>Feedback</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Desc 1</item>
+        <item>Desc 2</item>
+        <item>Desc 3</item>
+        <item>Desc 4</item>
+    </string-array>
+    <string name="title_activity_navigation_bar">NavigationBarActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="paused">Paused…</string>
+    <string name="playing">Playing…</string>
+</resources>

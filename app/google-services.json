@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185896670111",
+    "firebase_url": "https://smartlearning2-c177d.firebaseio.com",
+    "project_id": "smartlearning2-c177d",
+    "storage_bucket": "smartlearning2-c177d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185896670111:android:2f78c77b4b47806c",
+        "android_client_info": {
+          "package_name": "com.example.girishpatel.smartlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185896670111-dr9ms99ch3id4tnsqhgi3jg59182llr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtdULG4kDwFnoKBBBZp6t47hCEwYeaVtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
